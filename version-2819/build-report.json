@@ -1,0 +1,27 @@
+{
+  "parsed_movie_count": 2000,
+  "movie_detail_page_count": 2000,
+  "html_page_count": 2016,
+  "category_page_count": 12,
+  "category_distribution": {
+    "热门更新": 167,
+    "欧美精选": 167,
+    "动作冒险": 167,
+    "悬疑惊悚": 167,
+    "喜剧爱情": 167,
+    "剧情佳作": 167,
+    "科幻奇幻": 167,
+    "动画剧集": 167,
+    "犯罪警匪": 166,
+    "战争历史": 166,
+    "合家欢": 166,
+    "最新片库": 166
+  },
+  "category_covered_movie_count": 2000,
+  "catalog_card_count": 2000,
+  "baidu_missing_pages": [],
+  "old_logo_hits": [],
+  "forbidden_hits": [],
+  "zip_image_file_count": 0,
+  "zip_path": "/mnt/data/movie_site_static.zip"
+}
